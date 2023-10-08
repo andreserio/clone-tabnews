@@ -3,7 +3,7 @@ import React from 'react';
 function Home() {
   return (
     <div style={styles.container}>
-      <h1 style={styles.text}>Voe alto, seja leve 🎈</h1>
+      <h1 style={styles.text}>Voe alto, seja leve! 🎈🎈🎈</h1>
     </div>
   );
 }
